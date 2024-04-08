@@ -19,7 +19,7 @@ I've added a sample video to try the model on ***- it's inside the Test Video Fo
 
 ## Data Description
 
-The used dataset is SKU110K, it provides 11,762 images with more than 1.7 million annotated bounding boxes captured in densely packed scenarios, including 8,233 images for training, 588 images for validation, and 2,941 images for testing. There are around 1,733,678 instances in total. The images are collected from thousands of supermarket stores and are of various scales, viewing angles, lighting conditions, and noise levels. All the images are resized into a resolution of one megapixel. 
+The dataset used is SKU110K, which provides 11,762 images with more than 1.7 million annotated bounding boxes captured in densely packed scenarios. It includes 8,233 images for training, 588 for validation, and 2,941 for testing. There are around 1,733,678 instances in total. The images of various scales, viewing angles, lighting conditions, and noise levels are collected from thousands of supermarket stores. All the images are resized to a resolution of one megapixel. 
 Because we want to train the model locally, we reduced the data size to 1/3 for training purposes.
 
 ## Execution Stages
