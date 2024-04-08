@@ -7,7 +7,7 @@ This project utilizes YOLOv8 object detection on custom data for shelf analysis,
 ## Project's Output Sample
 
 <p align="center">
-   <img src="https://github.com/YousofHajHasan/Shelf-Analysis/assets/161046637/e2ef4fcd-7601-4976-bd43-74529f068cc" alt="Sample" width="600"/>
+   <img src="https://github.com/YousofHajHasan/Shelf-Analysis/assets/161046637/51721654-8a75-4a13-9942-0127ef0f07c4" alt="Sample" width="600"/>
 </p>
 
 ## Installation Notes
